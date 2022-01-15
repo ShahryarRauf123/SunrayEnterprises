@@ -1,0 +1,125 @@
+/*Main Bodies*/
+body {
+    background-color: white;
+}
+
+
+/*Navbar*/
+.nav-item {
+    padding: 0 6px;
+    font-size: 1.1rem;
+}
+.navbar {
+    padding: 0 20px 5px ;  
+}
+.navbar-brand {
+    font-size: 1.5rem; 
+}
+.nav-item{
+
+    font-size: 0.8rem;
+}
+/* Title */
+.titlecol {
+    background-color: #e3f2fd;
+    padding: 3%;
+}
+
+
+.titleimg {
+    width: 100%;
+    height: auto;
+}
+
+.heading1 {
+    font-family: 'Dancing Script', cursive;
+margin: 10px;
+margin-bottom: 100px;
+}
+.heading2 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.Logo {
+border-radius: 100%;
+width: 40%;
+height: auto;
+margin: 10%;
+}
+.heading-nav {
+    font-family: 'Dancing Script', cursive;
+}
+.logo-nav {
+    border-radius: 100%;
+    width: 10%;
+    height: auto;
+    margin: 0;
+}
+
+/*About*/
+
+
+.about-div {
+    padding: 5%;
+    text-align: center;
+    margin: 5% 0;
+}
+
+.icon {
+font-size: 3rem;
+margin: 5%;
+color: #1d70a2;
+}
+
+.icon:hover {
+    color: #1b4353;
+}
+.about-li {
+text-align: center;
+list-style:none ;
+}
+
+
+
+
+/*Portfolio*/
+
+#Portfolio {
+    text-align: center;
+margin: 2% 2% 5%;
+}
+
+.portfolio-arch-img {
+width: 100%;
+}
+
+.heading-portfolio {
+margin: 3%;
+font-family: 'Ubuntu', sans-serif;
+
+}
+
+/*Contact Us*/
+
+
+#ContactUs {
+text-align: center;
+margin: 0 5%;
+background-color: cornflowerblue;
+}
+
+.icon-social {
+font-size: 2rem;
+margin: 0 1.5rem;
+color: cornsilk;
+}
+.icon-social:hover {
+
+    color: dimgrey;
+}
+
+.footer {
+
+    text-align: center;
+    color: dodgerblue;
+}
